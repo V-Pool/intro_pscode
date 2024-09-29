@@ -1,4 +1,11 @@
 # Client Task A #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
-
+Initialize a random number between 1 and 10
+set max attempts 3
+when attempts are less than 3
+ask player to "guess again"
+when attempts are equal to 3
+tell player "Game over you are a loser"
+when player correctly guesses
+tell player "Congratulations"
