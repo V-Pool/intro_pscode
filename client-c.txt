@@ -1,4 +1,10 @@
 # Client Task C #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
-
+Set number to 2
+set max to 50
+start counting at 2
+each scan adds 2
+tell the count on screen
+keep scanning until it reaches 50
+tell case is full when it reaches 50 
