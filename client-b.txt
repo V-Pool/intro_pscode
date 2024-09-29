@@ -1,4 +1,9 @@
 # Client Task B #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
-
+Set customer starting position
+set target location
+when customer moves
+tell customer which direction to move next
+repeat this until the customer arrives at the location
+tell customer "you have arrived"
